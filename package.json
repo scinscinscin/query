@@ -1,0 +1,26 @@
+{
+  "name": "@scinorandex/query",
+  "version": "0.0.3",
+  "description": "Dead simple data caching for react",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/scinscinscin/query"
+  },
+  "keywords": [
+    "query",
+    "data-fetching",
+    "fetch",
+    "scinstack"
+  ],
+  "author": "scinorandex",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^18.0.27",
+    "react": "^18.2.0",
+    "typescript": "^4.9.5"
+  }
+}
